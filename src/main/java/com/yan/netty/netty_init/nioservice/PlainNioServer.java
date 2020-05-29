@@ -1,7 +1,5 @@
 package com.yan.netty.netty_init.nioservice;
 
-import com.sun.deploy.config.ClientConfig;
-
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.net.ServerSocket;
